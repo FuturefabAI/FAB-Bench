@@ -136,4 +136,5 @@ These metrics are orthogonal by design -- a response may exhibit high relevance 
 > FutureFab.AI · \*Corresponding author: andrewg@futurefab.ai
 
 - [Paper PDF](FAB_Bench__A_Framework_for_Adaptive_RAG_Benchmarking_in_Semiconductor_Manufacturing.pdf)
+- [ArXiv](https://arxiv.org/abs/2605.26476)
 
